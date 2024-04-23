@@ -15,3 +15,9 @@ In this part, weather data obtained in Part 1 is used to plan future vacations i
  - Find Nearby Hotels
  - Use the Geoapify API to find the first hotel located within 10,000 meters of each city's coordinates.
  - Create a new DataFrame to store the city, country, coordinates, and humidity.
+
+## Linked References
+- https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html#pandas.to_datetime
+- https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+- https://stackoverflow.com/questions/65016116/pandas-converting-a-datetime-y-d-m-hm-to-y-m-d-hm
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
